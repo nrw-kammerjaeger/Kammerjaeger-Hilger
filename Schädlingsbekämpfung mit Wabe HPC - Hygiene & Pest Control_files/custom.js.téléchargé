@@ -1,0 +1,14 @@
+// Hier kannst Du alle jQuery Anweisungen platzieren.
+
+jQuery(function($){
+
+	  $('#something').addClass("firstclass secondclass");
+
+});
+
+
+
+
+
+
+
